@@ -1,0 +1,28 @@
+img{
+    padding-left: 0%;
+    border-color:red;
+    border-style: solid;
+    margin: auto;
+    background-position: center;
+ }
+ input{
+     
+     border-color:blanchedalmond;
+     border-style: solid;
+     float: left;
+     width: 20%;
+     text-align: center;
+     margin: 2px;
+     height: 30px;
+     background-color: black;
+     color: #1aeab2;
+     font-size: 12px;
+     font-weight: bold;
+ }
+ article{
+     padding-left: 30%;
+     padding-top: 16%;
+ }
+ body{
+     background-image: url('imgs/inicio.jpg');
+ }
